@@ -1,0 +1,1 @@
+Практическое задание «Event loop. Asyncio»
